@@ -93,8 +93,11 @@ This will make it a fully functional AI classroom assistant.
 (Anshul Gole)
 
 Himanshu Gour
+
 Bulbul Goyal
-kumari kajol
+
+Swati Tomar
+
 abhay sharma
 
 🚀 Future Enhancements
