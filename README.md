@@ -61,6 +61,8 @@ Listens to speech and converts it into subtitles.
 
 Hindi, English, Bengali, Tamil, Telugu, Marathi, Punjabi, Kannada, Malayalam, Gujarati, Urdu, Nepali, Chinese, Japanese, Korean, Arabic, French, Spanish, German, etc.
 
+---
+
 📺 Projector Mode
 
 A fullscreen mode designed for classrooms:
@@ -73,6 +75,7 @@ LIVE status indicator
 
 Auto-refresh animations
 
+---
 
 📱 Mobile App UI (100% HTML/CSS/JS/etc.)
 
@@ -84,6 +87,7 @@ Pages: Home, Start, Subtitles, About
 
 Modern glass + gradient effects
 
+---
 
 🔧 Bluetooth + Mic Controls
 
@@ -95,6 +99,7 @@ Bluetooth indicator animations
 
 Voice recognition state display
 
+---
 
 🎞️ Tutorial Video Cards
 
@@ -103,8 +108,6 @@ Static video thumbnails for:
 Connecting devices
 
 Language selection guide
-
-
 
 ---
 
@@ -142,7 +145,7 @@ More future added working -----------⭕
 2. offline & online work 
 
 
-
+---
 
 multilingual_classroom_ui.html
 
@@ -175,7 +178,7 @@ https://youtu.be/zL3WgTPkoic?si=rP4ozAWJvGZrpkR8
 
 👥 Team Members
 
-(Anshul Gole)
+Anshul Gole
 
 Himanshu Gour 
 
@@ -199,6 +202,6 @@ Teacher dashboard
 
 Student analytics
 
-ios version
+IOS Version
 
 Integration with school smart boards
